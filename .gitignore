@@ -1,0 +1,18 @@
+# Python cache (άχρηστα αρχεία συστήματος)
+__pycache__/
+*.py[cod]
+
+# Virtual Environments
+venv/
+.venv/
+env/
+
+# Environment Variables (ΤΟ ΠΙΟ ΣΗΜΑΝΤΙΚΟ)
+.env
+
+# Local Configuration (Για να μην ανεβούν οι ρυθμίσεις του δικού σου server)
+config.json
+
+# IDE settings (VS Code, Pycharm etc)
+.vscode/
+.idea/
